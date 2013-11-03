@@ -5,6 +5,10 @@
 *.slo
 *.lo
 *.o
+uname-fudge
+
+# Auto-generated dependencies
+*.dep
 
 # Compiled Dynamic libraries
 *.so
